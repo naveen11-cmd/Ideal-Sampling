@@ -61,4 +61,4 @@ plt.show()
 
 # Result
 
-a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling is simulated using google colab
+A simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling is simulated using google colab
